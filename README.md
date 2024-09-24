@@ -1,2 +1,3 @@
-# Games-Code
-This is to house any games I make and the code used to make them
+This is the file in which we will document our project.
+
+This is a test.
